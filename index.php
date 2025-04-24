@@ -1,5 +1,5 @@
 <?php
-$host = '127.0.0.1:3306';  // или IP-адрес сервера
+$host = '127.0.0.1:3306';  
 $dbname = 'new_schema';
 $username = 'root';
 $password = 'root';
